@@ -4,3 +4,6 @@ D:\Development\GitExt Training\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.
 D:\Development\GitExt Training\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csprojResolveAssemblyReference.cache
 D:\Development\GitExt Training\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.exe
 D:\Development\GitExt Training\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
+D:\Development\Git\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+D:\Development\Git\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+D:\Development\Git\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
